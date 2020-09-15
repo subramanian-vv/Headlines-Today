@@ -1,0 +1,27 @@
+body {
+    background-color: lavenderblush;
+}
+
+#title {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.card {
+    box-shadow: 2px 2px 10px 10px maroon;
+    background-color: aliceblue;
+}
+
+span, a {
+    font-weight: bolder;
+}
+
+i {
+    font-size: 48px;
+    color: green;
+}
+
+h1, h3 {
+    color: darkblue;
+}
